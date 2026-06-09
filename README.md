@@ -181,6 +181,26 @@ These features showed the strongest influence on employee attrition predictions.
 
 ---
 
+## WorkFlow
+
+Raw Data
+↓
+Data Cleaning
+↓
+Feature Engineering
+↓
+One-Hot Encoding
+↓
+SMOTE
+↓
+LightGBM
+↓
+Threshold Optimization
+↓
+Evaluation
+
+---
+
 ## Technologies Used
 
 * Python
